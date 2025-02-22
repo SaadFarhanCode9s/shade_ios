@@ -1,6 +1,6 @@
-name: Riot
+name: Shade
 attributes:
-  ORGANIZATIONNAME: matrix.org
+  ORGANIZATIONNAME: shadeapp.dev
 
 configs:
   Debug: debug
