@@ -1,4 +1,4 @@
-# Element iOS
+# Shade iOS
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/element-hq/element-ios)
 ![badge-languages](https://img.shields.io/badge/languages-Swift%20%7C%20ObjC-orange.svg)
@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/github/license/element-hq/element-ios)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Element&url=https%3A%2F%2Ftwitter.com%2Felement_hq)](https://twitter.com/element_hq)
 
-Element iOS is an iOS [Matrix](https://matrix.org/) client provided by [Element](https://element.io/). It is based on [MatrixSDK](https://github.com/matrix-org/matrix-ios-sdk).
+Shade iOS is an iOS [Matrix](https://matrix.org/) client provided by [Element](https://element.io/). It is based on [MatrixSDK](https://github.com/matrix-org/matrix-ios-sdk).
 
 <p align="center">  
   <a href=https://itunes.apple.com/us/app/element/id1083446067?mt=8>
@@ -39,11 +39,11 @@ Else, you can visit our [installation guide](./INSTALL.md). This guide also offe
 
 ## Contributing
 
-If you want to contribute to Element iOS code or translations, go to the [contribution guide](CONTRIBUTING.md).
+If you want to contribute to Shade iOS code or translations, go to the [contribution guide](CONTRIBUTING.md).
 
 ## Support
 
-When you are experiencing an issue on Element iOS, please first search in [GitHub issues](https://github.com/element-hq/element-ios/issues)
+When you are experiencing an issue on Shade iOS, please first search in [GitHub issues](https://github.com/element-hq/element-ios/issues)
 and then in [#element-ios:matrix.org](https://matrix.to/#/#element-ios:matrix.org).
 If after your research you still have a question, ask at [#element-ios:matrix.org](https://matrix.to/#/#element-ios:matrix.org). Otherwise feel free to create a GitHub issue if you encounter a bug or a crash, by explaining clearly in detail what happened. You can also perform bug reporting (Rageshake) from the Element application by shaking your phone or going to the application settings. This is especially recommended when you encounter a crash.
 
